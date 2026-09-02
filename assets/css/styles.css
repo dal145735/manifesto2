@@ -1,8 +1,12 @@
 /* styles.css */
-.saira-semi-condensed-thin {
+html{background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);}
+
+pre {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 100;
   font-style: normal;
+  color:white;
 }
 
 .saira-semi-condensed-extralight {
@@ -17,13 +21,13 @@
   font-style: normal;
 }
 
-.saira-semi-condensed-regular {
+div {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.saira-semi-condensed-medium {
+p {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 500;
   font-style: normal;
@@ -39,6 +43,8 @@ h1 {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 700;
   font-style: normal;
+  color:hotpink;
+  font-size: 5em;
 }
 
 .saira-semi-condensed-extrabold {
