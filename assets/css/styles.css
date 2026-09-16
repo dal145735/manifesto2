@@ -37,6 +37,7 @@ pre2 {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 600;
   font-style: normal;
+  text-align:center;
   color:rgb(255, 255, 255)
 }
 
@@ -48,15 +49,10 @@ h1 {
   font-size: 5em;
 }
 
-.saira-semi-condensed-extrabold {
+.class1 {
   font-family: "Saira Semi Condensed", sans-serif;
-  font-weight: 800;
-  font-style: normal;
+  font-weight: 400;
+  font-style: bold;
+  color:rgb(255, 255, 255);
+  font-size: 2em;
 }
-
-.saira-semi-condensed-black {
-  font-family: "Saira Semi Condensed", sans-serif;
-  font-weight: 900;
-  font-style: normal;
-}
-
