@@ -1,24 +1,12 @@
 /* styles.css */
 html{background: #2A7B9B;
-background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgb(255, 255, 253) 100%);}
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgb(179, 255, 218) 100%);}
 
 pre {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 200;
   font-style: bold;
   color:rgb(0, 10, 26);
-}
-
-.saira-semi-condensed-extralight {
-  font-family: "Saira Semi Condensed", sans-serif;
-  font-weight: 200;
-  font-style: normal;
-}
-
-.saira-semi-condensed-light {
-  font-family: "Saira Semi Condensed", sans-serif;
-  font-weight: 300;
-  font-style: normal;
 }
 
 div {
@@ -52,6 +40,13 @@ h1 {
 .class1 {
   font-family: "Saira Semi Condensed", sans-serif;
   font-weight: 400;
+  font-style: bold;
+  color:rgb(255, 255, 255);
+  font-size: 2em;
+}
+.class2 {
+  font-family: "Saira Semi Condensed", sans-serif;
+  font-weight: 500;
   font-style: bold;
   color:rgb(255, 255, 255);
   font-size: 2em;
